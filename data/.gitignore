@@ -1,5 +1,4 @@
 # DO NOT COMMIT THE DATA
 # it will probably break the repo
 
-**/*.csv
-**/*.json
+**/*
